@@ -1,0 +1,223 @@
+2019-12-30 22:20:27.142 +08:00 [ERR] Object reference not set to an instance of an object.
+2019-12-30 22:21:20.833 +08:00 [ERR] Object reference not set to an instance of an object.
+2019-12-30 22:28:48.613 +08:00 [INF] User profile is available. Using 'C:\Users\Tony Tang\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-12-30 22:28:48.795 +08:00 [INF] Creating key {f093a307-6388-4f93-88de-e794a049e2d1} with creation date 2019-12-30 14:28:48Z, activation date 2019-12-30 14:28:48Z, and expiration date 2020-03-29 14:28:48Z.
+2019-12-30 22:28:48.837 +08:00 [INF] Writing data to file 'C:\Users\Tony Tang\AppData\Local\ASP.NET\DataProtection-Keys\key-f093a307-6388-4f93-88de-e794a049e2d1.xml'.
+2019-12-30 22:28:49.075 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2019-12-30 22:28:49.076 +08:00 [INF] Hosting environment: Development
+2019-12-30 22:28:49.076 +08:00 [INF] Content root path: C:\Users\Tony Tang\Documents\repos\SoccerAPI\SoccerAPI
+2019-12-30 22:28:49.131 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/  
+2019-12-30 22:28:49.279 +08:00 [INF] Request finished in 151.1989ms 404 
+2019-12-30 22:45:57.244 +08:00 [INF] User profile is available. Using 'C:\Users\Tony Tang\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-12-30 22:45:57.601 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2019-12-30 22:45:57.601 +08:00 [INF] Hosting environment: Development
+2019-12-30 22:45:57.601 +08:00 [INF] Content root path: C:\Users\Tony Tang\Documents\repos\SoccerAPI\SoccerAPI
+2019-12-30 22:45:57.648 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/  
+2019-12-30 22:45:57.781 +08:00 [INF] Request finished in 135.3489ms 404 
+2019-12-30 22:51:15.983 +08:00 [INF] User profile is available. Using 'C:\Users\Tony Tang\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-12-30 22:51:16.551 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2019-12-30 22:51:16.552 +08:00 [INF] Hosting environment: Development
+2019-12-30 22:51:16.552 +08:00 [INF] Content root path: C:\Users\Tony Tang\Documents\repos\SoccerAPI\SoccerAPI
+2019-12-30 22:51:16.630 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/  
+2019-12-30 22:51:16.856 +08:00 [INF] Request finished in 229.2864ms 404 
+2019-12-30 22:51:21.461 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/  
+2019-12-30 22:51:21.480 +08:00 [INF] Request finished in 15.1604ms 404 
+2019-12-30 22:51:25.238 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger  
+2019-12-30 22:51:25.242 +08:00 [INF] Request finished in 4.7314ms 404 
+2019-12-30 22:55:09.410 +08:00 [INF] User profile is available. Using 'C:\Users\Tony Tang\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-12-30 22:55:09.717 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2019-12-30 22:55:09.717 +08:00 [INF] Hosting environment: Development
+2019-12-30 22:55:09.718 +08:00 [INF] Content root path: C:\Users\Tony Tang\Documents\repos\SoccerAPI\SoccerAPI
+2019-12-30 22:55:09.791 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/  
+2019-12-30 22:55:09.996 +08:00 [INF] Request finished in 210.1922ms 404 
+2019-12-30 22:55:10.933 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger  
+2019-12-30 22:55:10.944 +08:00 [INF] Request finished in 7.8453ms 404 
+2019-12-30 22:56:00.587 +08:00 [INF] User profile is available. Using 'C:\Users\Tony Tang\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-12-30 22:56:00.981 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2019-12-30 22:56:00.982 +08:00 [INF] Hosting environment: Development
+2019-12-30 22:56:00.982 +08:00 [INF] Content root path: C:\Users\Tony Tang\Documents\repos\SoccerAPI\SoccerAPI
+2019-12-30 22:56:01.029 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/  
+2019-12-30 22:56:01.186 +08:00 [INF] Request finished in 160.4147ms 404 
+2019-12-30 22:56:04.286 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger  
+2019-12-30 22:56:04.290 +08:00 [INF] Request finished in 4.713ms 301 
+2019-12-30 22:56:04.296 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/index.html  
+2019-12-30 22:56:04.453 +08:00 [INF] Request finished in 157.35ms 200 text/html;charset=utf-8
+2019-12-30 22:56:04.486 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/swagger-ui.css  
+2019-12-30 22:56:04.487 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/swagger-ui-standalone-preset.js  
+2019-12-30 22:56:04.486 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/swagger-ui-bundle.js  
+2019-12-30 22:56:04.565 +08:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2019-12-30 22:56:04.565 +08:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2019-12-30 22:56:04.565 +08:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2019-12-30 22:56:04.567 +08:00 [INF] Request finished in 81.6437ms 200 text/css
+2019-12-30 22:56:04.567 +08:00 [INF] Request finished in 81.6577ms 200 application/javascript
+2019-12-30 22:56:04.567 +08:00 [INF] Request finished in 80.1722ms 200 application/javascript
+2019-12-30 22:56:05.001 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/v1/swagger.json  
+2019-12-30 22:56:05.079 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/favicon-32x32.png  
+2019-12-30 22:56:05.082 +08:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2019-12-30 22:56:05.083 +08:00 [INF] Request finished in 3.6022ms 200 image/png
+2019-12-30 22:56:05.220 +08:00 [INF] Request finished in 219.5574ms 200 application/json;charset=utf-8
+2019-12-30 22:57:31.761 +08:00 [INF] Request starting HTTP/2.0 POST https://localhost:44385/api/User/register application/json 124
+2019-12-30 22:57:31.772 +08:00 [INF] CORS policy execution successful.
+2019-12-30 22:57:31.781 +08:00 [INF] Executing endpoint 'SoccerAPI.Controllers.UserController.Register (SoccerAPI)'
+2019-12-30 22:57:31.818 +08:00 [INF] Route matched with {action = "Register", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register(SoccerAPI.Models.RegisterModel) on controller SoccerAPI.Controllers.UserController (SoccerAPI).
+2019-12-30 22:57:31.984 +08:00 [INF] Failed to find AWS credentials for the profile default
+2019-12-30 22:57:31.993 +08:00 [INF] Found credentials using the AWS SDK's default credential search
+2019-12-30 22:57:32.103 +08:00 [INF] Executed action SoccerAPI.Controllers.UserController.Register (SoccerAPI) in 279.2237ms
+2019-12-30 22:57:32.107 +08:00 [INF] Executed endpoint 'SoccerAPI.Controllers.UserController.Register (SoccerAPI)'
+2019-12-30 22:57:32.110 +08:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'SoccerAPI.Controllers.UserController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2019-12-30 22:57:32.174 +08:00 [INF] Request finished in 417.869ms 500 text/plain
+2019-12-30 22:57:50.219 +08:00 [INF] Request starting HTTP/2.0 POST https://localhost:44385/api/User/register application/json 124
+2019-12-30 22:57:50.221 +08:00 [INF] CORS policy execution successful.
+2019-12-30 22:57:50.224 +08:00 [INF] Executing endpoint 'SoccerAPI.Controllers.UserController.Register (SoccerAPI)'
+2019-12-30 22:57:50.225 +08:00 [INF] Route matched with {action = "Register", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register(SoccerAPI.Models.RegisterModel) on controller SoccerAPI.Controllers.UserController (SoccerAPI).
+2019-12-30 22:57:50.227 +08:00 [INF] Executed action SoccerAPI.Controllers.UserController.Register (SoccerAPI) in 1.3113ms
+2019-12-30 22:57:50.227 +08:00 [INF] Executed endpoint 'SoccerAPI.Controllers.UserController.Register (SoccerAPI)'
+2019-12-30 22:57:50.228 +08:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'AutoMapper.IMapper' while attempting to activate 'SoccerAPI.Controllers.UserController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2019-12-30 22:57:50.231 +08:00 [INF] Request finished in 12.6742ms 500 text/plain
+2019-12-30 23:03:19.853 +08:00 [INF] User profile is available. Using 'C:\Users\Tony Tang\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-12-30 23:03:20.264 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2019-12-30 23:03:20.265 +08:00 [INF] Hosting environment: Development
+2019-12-30 23:03:20.265 +08:00 [INF] Content root path: C:\Users\Tony Tang\Documents\repos\SoccerAPI\SoccerAPI
+2019-12-30 23:03:20.311 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/  
+2019-12-30 23:03:20.462 +08:00 [INF] Request finished in 153.2502ms 404 
+2019-12-30 23:03:24.672 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385//swagger  
+2019-12-30 23:03:24.687 +08:00 [INF] Request finished in 15.9894ms 404 
+2019-12-30 23:03:31.020 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/index.html  
+2019-12-30 23:03:31.185 +08:00 [INF] Request finished in 165.1199ms 200 text/html;charset=utf-8
+2019-12-30 23:03:31.656 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/v1/swagger.json  
+2019-12-30 23:03:31.802 +08:00 [INF] Request finished in 146.3971ms 200 application/json;charset=utf-8
+2019-12-30 23:04:00.127 +08:00 [INF] Request starting HTTP/2.0 POST https://localhost:44385/api/User/register application/json 121
+2019-12-30 23:04:00.144 +08:00 [INF] CORS policy execution successful.
+2019-12-30 23:04:00.151 +08:00 [INF] Executing endpoint 'SoccerAPI.Controllers.UserController.Register (SoccerAPI)'
+2019-12-30 23:04:00.196 +08:00 [INF] Route matched with {action = "Register", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register(SoccerAPI.Models.RegisterModel) on controller SoccerAPI.Controllers.UserController (SoccerAPI).
+2019-12-30 23:04:00.347 +08:00 [INF] Failed to find AWS credentials for the profile default
+2019-12-30 23:04:00.356 +08:00 [INF] Found credentials using the AWS SDK's default credential search
+2019-12-30 23:04:24.759 +08:00 [INF] Entity Framework Core 3.1.0 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2019-12-30 23:04:25.579 +08:00 [INF] Executed DbCommand (91ms) [Parameters=[@__user_UserName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Users] AS [u]
+        WHERE [u].[UserName] = @__user_UserName_0) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2019-12-30 23:04:46.457 +08:00 [INF] Executed DbCommand (8ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 8000) (DbType = Binary), @p4='?' (Size = 8000) (DbType = Binary), @p5='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Users] ([Email], [FirstName], [LastName], [PasswordHash], [PasswordSalt], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+SELECT [Id]
+FROM [Users]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2019-12-30 23:04:50.657 +08:00 [INF] Executing HttpStatusCodeResult, setting HTTP status code 200
+2019-12-30 23:04:50.663 +08:00 [INF] Executed action SoccerAPI.Controllers.UserController.Register (SoccerAPI) in 50461.1853ms
+2019-12-30 23:04:50.663 +08:00 [INF] Executed endpoint 'SoccerAPI.Controllers.UserController.Register (SoccerAPI)'
+2019-12-30 23:04:50.669 +08:00 [INF] Request finished in 50545.7067ms 200 
+2019-12-30 23:07:03.530 +08:00 [INF] Request starting HTTP/2.0 POST https://localhost:44385/api/User/authenticate application/json 47
+2019-12-30 23:07:03.532 +08:00 [INF] CORS policy execution successful.
+2019-12-30 23:07:03.533 +08:00 [INF] Executing endpoint 'SoccerAPI.Controllers.UserController.Authenticate (SoccerAPI)'
+2019-12-30 23:07:03.541 +08:00 [INF] Route matched with {action = "Authenticate", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Authenticate(SoccerAPI.Models.AuthenticateModel) on controller SoccerAPI.Controllers.UserController (SoccerAPI).
+2019-12-30 23:07:23.109 +08:00 [INF] Entity Framework Core 3.1.0 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2019-12-30 23:07:23.148 +08:00 [INF] Executed DbCommand (5ms) [Parameters=[@__UserName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [u].[Id], [u].[Email], [u].[FirstName], [u].[LastName], [u].[PasswordHash], [u].[PasswordSalt], [u].[UserName]
+FROM [Users] AS [u]
+WHERE [u].[UserName] = @__UserName_0
+2019-12-30 23:08:23.377 +08:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType1`6[[System.Int32, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2019-12-30 23:08:23.412 +08:00 [INF] Executed action SoccerAPI.Controllers.UserController.Authenticate (SoccerAPI) in 79867.8301ms
+2019-12-30 23:08:23.413 +08:00 [INF] Executed endpoint 'SoccerAPI.Controllers.UserController.Authenticate (SoccerAPI)'
+2019-12-30 23:08:23.417 +08:00 [INF] Request finished in 79889.6281ms 200 application/json; charset=utf-8
+2019-12-30 23:09:03.696 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/api/User/1  
+2019-12-30 23:09:03.702 +08:00 [INF] Authorization failed.
+2019-12-30 23:09:03.710 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2019-12-30 23:09:03.712 +08:00 [INF] Request finished in 19.9935ms 401 
+2019-12-30 23:09:32.182 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/api/User/1  
+2019-12-30 23:09:32.184 +08:00 [INF] Authorization failed.
+2019-12-30 23:09:32.185 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2019-12-30 23:09:32.187 +08:00 [INF] Request finished in 7.2352ms 401 
+2019-12-30 23:09:42.074 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/api/User/1  
+2019-12-30 23:09:42.076 +08:00 [INF] Authorization failed.
+2019-12-30 23:09:42.077 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2019-12-30 23:09:42.078 +08:00 [INF] Request finished in 4.3134ms 401 
+2019-12-30 23:09:42.662 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/api/User/1  
+2019-12-30 23:09:42.664 +08:00 [INF] Authorization failed.
+2019-12-30 23:09:42.665 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2019-12-30 23:09:42.666 +08:00 [INF] Request finished in 3.5032ms 401 
+2019-12-30 23:09:43.108 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/api/User/1  
+2019-12-30 23:09:43.109 +08:00 [INF] Authorization failed.
+2019-12-30 23:09:43.110 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2019-12-30 23:09:43.111 +08:00 [INF] Request finished in 3.0229ms 401 
+2019-12-30 23:09:43.455 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/api/User/1  
+2019-12-30 23:09:43.457 +08:00 [INF] Authorization failed.
+2019-12-30 23:09:43.457 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2019-12-30 23:09:43.459 +08:00 [INF] Request finished in 3.7058ms 401 
+2019-12-30 23:09:43.793 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/api/User/1  
+2019-12-30 23:09:43.794 +08:00 [INF] Authorization failed.
+2019-12-30 23:09:43.794 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2019-12-30 23:09:43.795 +08:00 [INF] Request finished in 1.8165ms 401 
+2019-12-30 23:09:44.103 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/api/User/1  
+2019-12-30 23:09:44.104 +08:00 [INF] Authorization failed.
+2019-12-30 23:09:44.105 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2019-12-30 23:09:44.106 +08:00 [INF] Request finished in 2.5867ms 401 
+2019-12-30 23:09:44.406 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/api/User/1  
+2019-12-30 23:09:44.407 +08:00 [INF] Authorization failed.
+2019-12-30 23:09:44.407 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2019-12-30 23:09:44.408 +08:00 [INF] Request finished in 2.6789ms 401 
+2019-12-30 23:09:46.240 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/api/User/1  
+2019-12-30 23:09:46.241 +08:00 [INF] Authorization failed.
+2019-12-30 23:09:46.242 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2019-12-30 23:09:46.243 +08:00 [INF] Request finished in 2.5112ms 401 
+2019-12-30 23:09:46.680 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/api/User/1  
+2019-12-30 23:09:46.681 +08:00 [INF] Authorization failed.
+2019-12-30 23:09:46.681 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2019-12-30 23:09:46.682 +08:00 [INF] Request finished in 2.1422ms 401 
+2019-12-30 23:09:47.067 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/api/User/1  
+2019-12-30 23:09:47.068 +08:00 [INF] Authorization failed.
+2019-12-30 23:09:47.069 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2019-12-30 23:09:47.070 +08:00 [INF] Request finished in 2.113ms 401 
+2019-12-30 23:09:47.399 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/api/User/1  
+2019-12-30 23:09:47.400 +08:00 [INF] Authorization failed.
+2019-12-30 23:09:47.401 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2019-12-30 23:09:47.401 +08:00 [INF] Request finished in 2.4008ms 401 
+2019-12-30 23:12:52.633 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/api/User/1  
+2019-12-30 23:12:52.638 +08:00 [INF] Authorization failed.
+2019-12-30 23:12:52.639 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2019-12-30 23:12:52.640 +08:00 [INF] Request finished in 6.6404ms 401 
+2019-12-30 23:12:54.408 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/api/User/1  
+2019-12-30 23:12:54.409 +08:00 [INF] Authorization failed.
+2019-12-30 23:12:54.410 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2019-12-30 23:12:54.411 +08:00 [INF] Request finished in 2.0471ms 401 
+2019-12-30 23:12:54.878 +08:00 [INF] Request starting HTTP/2.0 GET https://localhost:44385/api/User/1  
+2019-12-30 23:12:54.880 +08:00 [INF] Authorization failed.
+2019-12-30 23:12:54.880 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2019-12-30 23:12:54.881 +08:00 [INF] Request finished in 2.4241ms 401 
